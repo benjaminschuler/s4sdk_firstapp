@@ -1,0 +1,2 @@
+"https://bupa-mock-odata-balanced-ratel.cfapps.eu10.hana.ondemand.com/sap/opu/odata/sap/API_BUSINESS_PARTNER/$metadata", "hystrix-com.sap.cloud.sdk.tutorial.GetCachedBusinessPartnersCommand#t=#u=-1"
+"https://bupa-mock-odata-balanced-ratel.cfapps.eu10.hana.ondemand.com/sap/opu/odata/sap/API_BUSINESS_PARTNER/A_BusinessPartner", "hystrix-com.sap.cloud.sdk.tutorial.GetCachedBusinessPartnersCommand#t=#u=-1"

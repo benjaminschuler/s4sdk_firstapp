@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome 67.0.3396 (Windows 10.0.0)" package="" timestamp="2018-06-22T14:33:34" id="0" hostname="HAMN33778848A" tests="0" errors="1" failures="0" time="0">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36"/>
+  </properties>
+  <system-out>
+    <![CDATA[Chrome 67.0.3396 (Windows 10.0.0) INFO: '2018-06-22 16:33:34 [context.html] Device API logging initialized - DEVICE'
+,Chrome 67.0.3396 (Windows 10.0.0) INFO: '2018-06-22 16:33:34.978199 [context.html] registerResourcePath ('sdk-tutorial-frontend', './base/application/src/main/webapp/') -  sap.ui.ModuleSystem'
+,Chrome 67.0.3396 (Windows 10.0.0) INFO: '2018-06-22 16:33:34.979399 [context.html] registerResourcePath ('', 'https://sapui5.hana.ondemand.com/1.42.9/resources/sap-ui-cachebuster/') -  sap.ui.ModuleSystem'
+,Chrome 67.0.3396 (Windows 10.0.0) INFO: '2018-06-22 16:33:34.979699 [context.html] URL prefixes set to: -  sap.ui.ModuleSystem'
+,Chrome 67.0.3396 (Windows 10.0.0) INFO: '2018-06-22 16:33:34.980000 [context.html]   (default) : https://sapui5.hana.ondemand.com/1.42.9/resources/sap-ui-cachebuster/ -  sap.ui.ModuleSystem'
+,Chrome 67.0.3396 (Windows 10.0.0) INFO: '2018-06-22 16:33:34.980199 [context.html]   'sdk-tutorial-frontend' : ./base/application/src/main/webapp/ -  sap.ui.ModuleSystem'
+,Chrome 67.0.3396 (Windows 10.0.0) ERROR
+  Script error.
+
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
